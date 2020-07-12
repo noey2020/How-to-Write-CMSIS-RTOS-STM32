@@ -1,5 +1,7 @@
 # How-to-Write-CMSIS-RTOS-STM32
 
+Example CMSIS-RTOS Program          July 11, 2020
+
 I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
 
 Hire me!
