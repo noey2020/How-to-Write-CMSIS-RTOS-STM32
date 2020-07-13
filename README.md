@@ -6,7 +6,8 @@ I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
 
 Hire me!
 
-
+CMSIS provides the core, peripheral, device header and middleware(RTOS) files as templates for
+projects.
 
 I included some posts for reference.
 
